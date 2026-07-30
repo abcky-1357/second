@@ -15,15 +15,6 @@ If you’re new to ML or just curious about the stock market, this is a great pl
 
 ---
 
-## What You’ll Learn
-
-- How to collect stock data using Yahoo Finance
-- How to clean and prepare time-series data
-- How LSTM (a type of neural network) works for prediction
-- How to visualize stock price predictions vs real prices
-
----
-
 ## Tools & Libraries Used
 
 - Python  
@@ -63,9 +54,7 @@ Pull requests and suggestions are always welcome!
 
 ### Connect With Me
 
-**Made by Adil Shamim**
+**Made by Abrar Ansari**
 Let’s connect and build cool things together.
 
-* LinkedIn: [adilshamim8](https://www.linkedin.com/in/adilshamim8)
-* Kaggle: [adilshamim8](https://www.kaggle.com/adilshamim8)
-* X: [adil_shamim8](https://x.com/adil_shamim8)
+* LinkedIn: [Abrar Ansari](https://www.linkedin.com/in/abrar-ansari-a480b1331?utm_source=share_via&utm_content=profile&utm_medium=member_android)
